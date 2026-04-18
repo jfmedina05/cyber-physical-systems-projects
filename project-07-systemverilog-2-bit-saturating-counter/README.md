@@ -46,3 +46,25 @@ This project implements a **2-bit saturating counter** in SystemVerilog and veri
   - saturation limits
 - Uses assertions and `$fatal` for correctness
 - Includes final pass condition:
+$display("@@@Passed");
+
+
+---
+
+## Skills Developed
+- SystemVerilog RTL design
+- Sequential logic implementation
+- Testbench creation and verification
+- FPGA-oriented design practices
+
+---
+
+## Tools & Technologies
+- SystemVerilog
+- FPGA (Basys3)
+- Simulation tools
+
+---
+
+## Notes
+This project transitions from embedded systems to digital hardware design, demonstrating full-stack cyber-physical engineering capability.
