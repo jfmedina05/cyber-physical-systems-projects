@@ -1,5 +1,26 @@
 # Cyber-Physical Systems Projects
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-FF6F00?logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white">
+  <img alt="Basys3 FPGA" src="https://img.shields.io/badge/Basys3%20FPGA-1E4D8C?logoColor=white">
+  <img alt="Vivado" src="https://img.shields.io/badge/Vivado-F79500?logo=amd&logoColor=white">
+  <img alt="I2C" src="https://img.shields.io/badge/I2C-00599C?logoColor=white">
+  <img alt="SPI" src="https://img.shields.io/badge/SPI-00599C?logoColor=white">
+  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white">
+  <img alt="GPIO" src="https://img.shields.io/badge/GPIO-2C8EBB?logoColor=white">
+  <img alt="PWM" src="https://img.shields.io/badge/PWM-2C8EBB?logoColor=white">
+  <img alt="smbus" src="https://img.shields.io/badge/smbus-3776AB?logo=python&logoColor=white">
+  <img alt="spidev" src="https://img.shields.io/badge/spidev-3776AB?logo=python&logoColor=white">
+  <img alt="paho-mqtt" src="https://img.shields.io/badge/paho--mqtt-660066?logo=mqtt&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <img alt="FPGA Simulation" src="https://img.shields.io/badge/FPGA%20Simulation-4B0082?logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white">
+</p>
+
 A collection of embedded systems and digital design projects focused on Raspberry Pi hardware interfacing, sensor communication, MQTT-based networking, GPIO/PWM control, FPGA-based digital logic, and SystemVerilog hardware design.
 
 This repository demonstrates practical cyber-physical systems development across the full stack: physical sensors, embedded software, communication protocols, networked data publishing, remote device control, digital logic, state machines, and FPGA-to-Raspberry Pi hardware communication.
